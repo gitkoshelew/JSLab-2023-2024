@@ -2,19 +2,19 @@
 
 questions sources:
 ------
-**CSS**\
-https://github.com/learning-zone/css-basics?ref=opensource\
-**HTML**\
-https://github.com/Devinterview-io/html5-interview-questions\
-**Javascript**\
-https://github.com/sudheerj/javascript-interview-questions\
-**React.js**\
-https://github.com/sudheerj/reactjs-interview-questions\
-**Node.js**\
-https://github.com/huynq-tp/nodejs-interview-questions\
-**SQL**\
-https://github.com/kansiris/SQL-interview-questions\
-**Docker&Kubernetes**\
-https://github.com/learning-zone/docker-and-kubernetes-basics\
-**Redis**\
-https://github.com/Devinterview-io/redis-interview-questions\
+**CSS**<br>
+https://github.com/learning-zone/css-basics?ref=opensource<br>
+**HTML**<br>
+https://github.com/Devinterview-io/html5-interview-questions<br>
+**Javascript**<br>
+https://github.com/sudheerj/javascript-interview-questions<br>
+**React.js**<br>
+https://github.com/sudheerj/reactjs-interview-questions<br>
+**Node.js**<br>
+https://github.com/huynq-tp/nodejs-interview-questions<br>
+**SQL**<br>
+https://github.com/kansiris/SQL-interview-questions<br>
+**Docker&Kubernetes**<br>
+https://github.com/learning-zone/docker-and-kubernetes-basics<br>
+**Redis**<br>
+https://github.com/Devinterview-io/redis-interview-questions<br>
